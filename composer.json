@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Mmurattcann35\\Contact": "app/"
+            "Mmurattcann35\\Contact\\": "src/"
         }
     }
 }
