@@ -1,0 +1,19 @@
+{
+    "name": "mmurattcann35/contact",
+    "description": "A very basic package to understand how to develop a package for laravel.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murat CAN",
+            "email": "muratcan.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mmurattcann35\\Contact": "app/"
+        }
+    }
+}
